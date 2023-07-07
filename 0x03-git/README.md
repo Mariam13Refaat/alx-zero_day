@@ -1,1 +1,1 @@
-readme for 0x03-git
+Created a new directory called 0x03-git in your alx-zero-day repo.
